@@ -78,14 +78,22 @@ This ensures realistic relationships between:
 
 ---
 
+Here is the corrected version in clean **Markdown format**:
+
 ## 🏗️ Project Structure
-`project/
-├── data_generator.py # Synthetic dataset generation
-├── train_model.py # ML model training
-├── scoring.py # Credit score conversion (200–800)
-├── utils.py # Helper functions
-├── notebook.ipynb # EDA + experimentation
-└── README.md`
+
+```
+
+project/
+├── data_generator.py      # Synthetic dataset generation
+├── train_model.py         # ML model training
+├── scoring.py             # Credit score conversion (200–800)
+├── utils.py               # Helper functions
+├── notebook.ipynb         # EDA & experimentation
+└── README.md
+
+```
+
 
 ---
 
