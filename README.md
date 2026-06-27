@@ -79,13 +79,13 @@ This ensures realistic relationships between:
 ---
 
 ## 🏗️ Project Structure
-project/
+`project/
 ├── data_generator.py # Synthetic dataset generation
 ├── train_model.py # ML model training
 ├── scoring.py # Credit score conversion (200–800)
 ├── utils.py # Helper functions
 ├── notebook.ipynb # EDA + experimentation
-└── README.md
+└── README.md`
 
 ---
 
