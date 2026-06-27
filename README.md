@@ -83,7 +83,6 @@ Here is the corrected version in clean **Markdown format**:
 ## 🏗️ Project Structure
 
 ```
-
 project/
 ├── data_generator.py      # Synthetic dataset generation
 ├── train_model.py         # ML model training
@@ -91,9 +90,7 @@ project/
 ├── utils.py               # Helper functions
 ├── notebook.ipynb         # EDA & experimentation
 └── README.md
-
 ```
-
 
 ---
 
